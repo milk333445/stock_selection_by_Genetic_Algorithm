@@ -41,6 +41,7 @@
 ## 舉例
 ### 獲得最佳特徵並透過這些特徵預測隱含波動度和報酬
 假設目前股票為:'AAPL', 'MSFT', 'AMZN', 'GOOGL', 'GOOG'
+
 ![](https://i.imgur.com/WTvG6Jn.png)
 ### 建立投資組合
 ![](https://i.imgur.com/Ofe1S2J.png)
