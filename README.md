@@ -45,6 +45,7 @@
 ![](https://i.imgur.com/WTvG6Jn.png)
 ### 建立投資組合
 ![](https://i.imgur.com/Ofe1S2J.png)
+
 根據上表，amzn為最佳投組
 ## 訓練
 - 資料期間:2019/01/01~2019/10/30
